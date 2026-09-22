@@ -1,5 +1,6 @@
 ---
-owner: Noor
+owner: Lukas
+contributor: Noor
 last_reviewed: 2026-09-22
 source: Company context pack, section 4
 ---

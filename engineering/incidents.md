@@ -1,5 +1,6 @@
 ---
-owner: Noor
+owner: Ivan
+contributor: Noor
 last_reviewed: 2026-09-22
 source: Company context pack, sections 2 and 4
 ---

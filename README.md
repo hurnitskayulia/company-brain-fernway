@@ -30,8 +30,8 @@ There is deliberately no `customers/` folder. Account-level information (names, 
 ## How to add a page
 
 1. Check `glossary.md` and `decisions.md` first — use Fernway's own terms, and check whether the thing you're writing about is already an open decision.
-2. Every page needs front-matter: `owner`, `last_reviewed`, `source`. A page without an owner doesn't get merged.
-3. Source is a person or a link to a public Slack thread. Nothing sourced from a DM goes in.
+2. Every page needs front-matter: `owner`, `contributor` (optional), `last_reviewed`, `source`. The owner is the folder owner — accountable for the page, approves PRs to it, chases the contributor when it goes stale. The contributor, if there is one, is the person who holds the knowledge and writes or updates the content. A page without an owner doesn't get merged; a page without a contributor is fine. See `RULES.md`.
+3. Source is a person or a link to a public Slack thread. Nothing sourced from a DM goes in. (Pages from the initial build may cite the company context pack under a dated exception — see `RULES.md`.)
 4. If your page contradicts another page or a known fact, don't resolve it — write both versions, add an entry to `decisions.md`, and link to it.
 5. If something's missing, write `GAP:` and name who has to fill it. Don't invent a process, a number, or an owner.
 6. No secrets, no customer data, no compensation. See `RULES.md`.
@@ -50,4 +50,4 @@ Cadence: Hana checks open decisions and pending PRs weekly (Monday, alongside he
 
 ## Ownership
 
-Hana is proposed as brain owner (Mara to confirm). Her job is the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page. Each folder has its own content owner, listed above and in `RULES.md`.
+Hana is proposed as brain owner (Mara to confirm). Her job is the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page. Every page's `owner` is its folder owner, listed above and in `RULES.md`. Where someone else holds the knowledge for a page, they're listed as its `contributor` — see `RULES.md` for what each field means.

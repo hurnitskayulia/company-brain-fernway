@@ -84,3 +84,10 @@ Gaps with no owner named in the design or the pack. Each is routed to the brain 
 | Customer-data incident steps beyond "goes to Ivan" | [support/escalation.md](support/escalation.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | Marketing processes (Emma's work) | [company/team.md](company/team.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | Account/venue figures verification | [company/overview.md](company/overview.md) | routed to Hana (proposed brain owner), awaiting assignment |
+
+---
+
+## Decided
+
+- **Page ownership follows folder ownership; named knowledge holders are listed as contributor.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed).
+- **Seed-source exception added to RULES.md.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed). Expires 2026-12-21.

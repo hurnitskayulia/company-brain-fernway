@@ -1,5 +1,6 @@
 ---
-owner: Ana
+owner: Ivan
+contributor: Ana
 last_reviewed: 2026-09-22
 source: Company context pack, section 7
 ---
