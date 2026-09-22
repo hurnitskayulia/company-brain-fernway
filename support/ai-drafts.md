@@ -14,4 +14,4 @@ No rules exist yet for what may be pasted into it. Until that's decided, the tea
 
 **Open decision:** what may be pasted into this tool, given the tension with the rule above. Decider: Ivan (as customer-data owner), confirmed by Mara. See [decisions.md](../decisions.md#4-claude-trial-paste-rules).
 
-GAP: who owns this trial day-to-day, what it's used for beyond "support draft replies," and whether or when it moves past trial status aren't in the source material.
+GAP: who owns this trial day-to-day, what it's used for beyond "support draft replies," and whether or when it moves past trial status aren't in the source material. Owner not assigned; routed to brain owner (Hana, proposed).

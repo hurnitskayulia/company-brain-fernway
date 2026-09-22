@@ -69,7 +69,7 @@ Linked from: [engineering/automations.md](engineering/automations.md).
 
 Hana is proposed as brain owner. Mara has not yet confirmed this.
 
-Linked from: [README.md](README.md), [RULES.md](RULES.md).
+Linked from: [README.md](README.md).
 
 ---
 
@@ -84,6 +84,9 @@ Gaps with no owner named in the design or the pack. Each is routed to the brain 
 | Customer-data incident steps beyond "goes to Ivan" | [support/escalation.md](support/escalation.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | Marketing processes (Emma's work) | [company/team.md](company/team.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | Account/venue figures verification | [company/overview.md](company/overview.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| T2L measurement and tracking | [onboarding/t2l.md](onboarding/t2l.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| AI drafting trial day-to-day ownership | [support/ai-drafts.md](support/ai-drafts.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Metabase activation metric definition | [ops/tools.md](ops/tools.md) | routed to Hana (proposed brain owner), awaiting assignment |
 
 ---
 
@@ -92,3 +95,4 @@ Gaps with no owner named in the design or the pack. Each is routed to the brain 
 - **Page ownership follows folder ownership; named knowledge holders are listed as contributor.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed).
 - **Seed-source exception added to RULES.md.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed). Expires 2026-12-21.
 - **Process-page exception added to RULES.md rule 5.** README.md, RULES.md and decisions.md — pages that document the brain's own rules and mechanics rather than facts about the company — may permanently cite this design document as their source. Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed). Does not expire.
+- **GitHub admin and Notion triage assigned to Hana as tooling admin.** The design names no one for these gaps. Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed).

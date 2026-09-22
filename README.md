@@ -38,7 +38,11 @@ There is deliberately no `customers/` folder. Account-level information (names, 
 7. Open a PR. The folder owner approves it. AI agents may open PRs but never merge them.
 8. Migrating a page from Notion? Copy nothing until that page's real-world owner confirms the content is still current. Most of the ~60 pages there haven't been reviewed yet — see the GAP note in `ops/tools.md`.
 
-## When to update this
+## How this brain stays alive
+
+Hana is proposed as brain owner (Mara to confirm — see [decisions.md](decisions.md#8-brain-owner)). Her job is the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page. Every page's `owner` is its folder owner, listed above and in `RULES.md`. Where someone else holds the knowledge for a page, they're listed as its `contributor` — see `RULES.md` for what each field means.
+
+**When to update this:**
 
 - A question gets answered a second time in Slack — link back to the page, or open a PR.
 - An open decision gets settled in a public channel — update `decisions.md` and the page within the week.
@@ -48,6 +52,12 @@ There is deliberately no `customers/` folder. Account-level information (names, 
 
 Cadence: Hana checks open decisions and pending PRs weekly (Monday, alongside her Stripe check). Folder owners re-confirm or delete their pages quarterly — anything with `last_reviewed` older than 90 days gets flagged, and deleting beats keeping something stale.
 
-## Ownership
+**First pages to fill:**
 
-Hana is proposed as brain owner (Mara to confirm). Her job is the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page. Every page's `owner` is its folder owner, listed above and in `RULES.md`. Where someone else holds the knowledge for a page, they're listed as its `contributor` — see `RULES.md` for what each field means.
+Start narrow, not a big launch. First — the runbooks with single-person risk:
+
+1. [onboarding/importer.md](onboarding/importer.md) — the CSV importer workaround (Noor).
+2. [engineering/staging-reset.md](engineering/staging-reset.md) — the staging reset steps (Ana).
+3. [engineering/automations.md](engineering/automations.md) — the n8n workflow list (Ivan).
+
+Then: [glossary.md](glossary.md), [support/escalation.md](support/escalation.md), [engineering/releases.md](engineering/releases.md) — these already have content from the pack, so the next step for each is their owner confirming it's still current, not writing it.

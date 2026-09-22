@@ -21,12 +21,16 @@ What each tool is for. No data, exports, or credentials from any of these live i
 | n8n | Ivan's internal automations instance — see [engineering/automations.md](../engineering/automations.md). |
 | 1Password | Where secrets live. |
 
+GAP: what the Metabase activation metric measures is undocumented. Owner not assigned; routed to brain owner (Hana, proposed).
+
 GAP: "how to get access" and a per-tool owner aren't specified in the source material for most of these tools (Hana is named as the general tooling admin, but tool-by-tool ownership isn't broken out). Hana to fill in.
 
-GAP: **GitHub** isn't in Fernway's current tool list per the source material — this repo itself has no documented admin owner, access list, or visibility setting. Hana, as tooling admin, to chase down an owner.
+GAP: **GitHub admin.** GitHub isn't in Fernway's current tool list per the source material — this repo itself has no documented admin owner, access list, or visibility setting. The design names no one for this; Hana, as tooling admin, owns finding an owner for it.
 
 ## Migrating from Notion
 
 ~60 pages, as of 2026-09-22, taken from the company context pack and not yet verified. Source of truth: Notion. None have been triaged yet. Don't copy anything from Notion into this repo until that page's real-world owner confirms the content is still current — see [RULES.md](../RULES.md) rule 12.
 
 GAP: verify the page count against Notion and update the date. Routed to brain owner (Hana, proposed).
+
+GAP: **Notion triage.** The ~60 Notion pages, including the onboarding checklist, haven't been triaged page by page. The design names no one for this; Hana, as tooling admin, owns coordinating the triage with each page's folder owner — nothing gets migrated until that page's owner confirms it's still current.
