@@ -25,7 +25,7 @@ source: Company context pack, section 2
 - **Daniel Okafor** — Account Executive. Runs demos — see [sales/demo.md](../sales/demo.md).
 - **Priya Raman** — SDR. Outbound and inbound qualification.
 - **Lukas Weber** — Customer Success. Owns onboarding end to end — see [onboarding/new-customer.md](../onboarding/new-customer.md).
-- **Emma Doyle** — Marketing, part-time contractor (2 days/week). GAP: Emma's marketing processes and responsibilities aren't documented anywhere in this repo yet — no folder currently covers marketing. Emma to write when she has time; Hana to track it as an open gap in the meantime.
+- **Emma Doyle** — Marketing, part-time contractor (2 days/week). GAP: Emma's marketing processes and responsibilities aren't documented anywhere in this repo yet — no folder currently covers marketing. Owner not assigned; routed to brain owner (Hana, proposed).
 
 ## Operations (3)
 

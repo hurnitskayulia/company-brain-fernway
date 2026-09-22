@@ -14,9 +14,10 @@ Fernway is a remote-first B2B SaaS company, founded in 2024, registered in Berli
 
 ## Customers and markets
 
-Germany, the Netherlands, Ireland. Per the source material (undated): roughly 40 accounts, ~140 paying venues. **HubSpot and Stripe are the source of truth for current figures — check there, don't rely on this page.**
+Germany, the Netherlands, Ireland.
 
-GAP: this number should carry a dated "as of [date], per HubSpot" stamp per `RULES.md` rule 9. Whoever next pulls a current figure should replace it here.
+~40 accounts / ~140 paying venues, as of 2026-09-22, taken from the company context pack and not yet verified. Source of truth: HubSpot (accounts), Stripe (venues).
+GAP: verify against HubSpot and Stripe and update the date. Routed to brain owner (Hana, proposed).
 
 ## Pricing
 

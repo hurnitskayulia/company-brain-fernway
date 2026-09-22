@@ -12,4 +12,4 @@ source: Company context pack, section 4
 4. Production incidents go to Noor.
 5. Anything involving customer data goes to Ivan.
 
-GAP: what happens after a customer-data issue reaches Ivan isn't described beyond "goes to Ivan." Ivan to document the actual incident steps.
+GAP: what happens after a customer-data issue reaches Ivan isn't described beyond "goes to Ivan." Owner not assigned; routed to brain owner (Hana, proposed).

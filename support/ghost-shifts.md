@@ -8,4 +8,4 @@ source: Company context pack, section 6
 
 A **ghost shift** is a published shift nobody claimed — see [glossary.md](../glossary.md#ghost-shift). It's the single most common support complaint.
 
-GAP: how support actually handles a ghost-shift report (troubleshooting steps, when to escalate) isn't in the source material. Jonas to write.
+GAP: how support actually handles a ghost-shift report (troubleshooting steps, when to escalate) isn't in the source material. Owner not assigned; routed to brain owner (Hana, proposed).

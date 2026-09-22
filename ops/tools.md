@@ -11,7 +11,7 @@ What each tool is for. No data, exports, or credentials from any of these live i
 | Tool | Purpose |
 |---|---|
 | Slack | Main channel for everything. Most decisions happen in threads. |
-| Notion | ~60 legacy pages, mostly written in the company's first six months and not maintained since. **Not a source of truth.** See migration note below. |
+| Notion | Legacy pages, mostly written in the company's first six months and not maintained since. **Not a source of truth.** Page count: see migration note below. |
 | HubSpot | CRM and sales pipeline. |
 | Linear | Engineering tickets. |
 | Intercom | Customer support inbox. |
@@ -27,4 +27,6 @@ GAP: **GitHub** isn't in Fernway's current tool list per the source material —
 
 ## Migrating from Notion
 
-None of the ~60 existing Notion pages have been triaged yet. Don't copy anything from Notion into this repo until that page's real-world owner confirms the content is still current — see [RULES.md](../RULES.md) rule 12.
+~60 pages, as of 2026-09-22, taken from the company context pack and not yet verified. Source of truth: Notion. None have been triaged yet. Don't copy anything from Notion into this repo until that page's real-world owner confirms the content is still current — see [RULES.md](../RULES.md) rule 12.
+
+GAP: verify the page count against Notion and update the date. Routed to brain owner (Hana, proposed).

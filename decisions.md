@@ -70,3 +70,17 @@ Linked from: [engineering/automations.md](engineering/automations.md).
 Hana is proposed as brain owner. Mara has not yet confirmed this.
 
 Linked from: [README.md](README.md), [RULES.md](RULES.md).
+
+---
+
+## Unassigned gaps
+
+Gaps with no owner named in the design or the pack. Each is routed to the brain owner to chase down the real assignment, not resolved here.
+
+| Gap | File | Status |
+|---|---|---|
+| Demo process | [sales/demo.md](sales/demo.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Ghost-shift handling | [support/ghost-shifts.md](support/ghost-shifts.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Customer-data incident steps beyond "goes to Ivan" | [support/escalation.md](support/escalation.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Marketing processes (Emma's work) | [company/team.md](company/team.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Account/venue figures verification | [company/overview.md](company/overview.md) | routed to Hana (proposed brain owner), awaiting assignment |
