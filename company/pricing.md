@@ -6,7 +6,9 @@ source: Company context pack, sections 1 and 7
 
 # Pricing
 
-€39 per venue per month, with a 15% discount for annual prepay. Anything below the €39 rate is a **Mara-check** — see [glossary.md](../glossary.md#mara-check) — it goes through Mara.
+€39 per venue per month is the standard rate. A 15% discount for annual prepay is also standard — both are standard pricing, not exceptions. Anything priced below the applicable standard rate (the €39/venue/month rate, or the discounted annual-prepay rate) is a **Mara-check** — see [glossary.md](../glossary.md#mara-check) — it goes through Mara.
+
+GAP: how a Mara-check request reaches Mara (channel, what to include) is undocumented. Owner not assigned; routed to brain owner (Hana, proposed).
 
 ## Legacy pricing
 

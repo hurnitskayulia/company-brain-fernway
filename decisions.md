@@ -87,6 +87,7 @@ Gaps with no owner named in the design or the pack. Each is routed to the brain 
 | T2L measurement and tracking | [onboarding/t2l.md](onboarding/t2l.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | AI drafting trial day-to-day ownership | [support/ai-drafts.md](support/ai-drafts.md) | routed to Hana (proposed brain owner), awaiting assignment |
 | Metabase activation metric definition | [ops/tools.md](ops/tools.md) | routed to Hana (proposed brain owner), awaiting assignment |
+| Mara-check request routing (channel, what to include) | [company/pricing.md](company/pricing.md) | routed to Hana (proposed brain owner), awaiting assignment |
 
 ---
 
