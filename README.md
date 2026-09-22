@@ -40,17 +40,23 @@ There is deliberately no `customers/` folder. Account-level information (names, 
 
 ## How this brain stays alive
 
-Hana is proposed as brain owner (Mara to confirm — see [decisions.md](decisions.md#8-brain-owner)). Her job is the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page. Every page's `owner` is its folder owner, listed above and in `RULES.md`. Where someone else holds the knowledge for a page, they're listed as its `contributor` — see `RULES.md` for what each field means.
+Hana is proposed as brain owner (Mara to confirm — see [decisions.md](decisions.md#8-brain-owner)). She runs the repo and the process — RULES, `decisions.md`, chasing stale pages and open PRs — not writing every page.
 
-**When to update this:**
+Every page's `owner` is its folder owner; where the design names a separate knowledge-holder, they're the page's `contributor`. See `RULES.md`'s front-matter rule for what each means.
 
-- A question gets answered a second time in Slack — link back to the page, or open a PR.
-- An open decision gets settled in a public channel — update `decisions.md` and the page within the week.
+**Cadence:** weekly (Monday, alongside her Stripe check), Hana checks open decisions and pending PRs. Quarterly, each folder owner re-confirms or deletes their pages — anything with `last_reviewed` older than 90 days is flagged, and deleting beats staying stale.
+
+**Update triggers** — the brain gets updated when:
+
+- A question is answered a second time in Slack — the answerer links back to the page, or opens a PR (an AI can draft it).
+- An open decision is settled in a public channel — update `decisions.md` and the affected page within the week.
 - A process, tool, owner, or role changes.
-- Someone who's the only one who knows something is about to be away — write the runbook before they leave.
+- The only person who knows something has a planned absence — the runbook gets written before they leave.
 - A new hire starts — they follow `people/new-hire.md` and fix what's wrong via PR in their first two weeks.
+- A production incident or customer-data escalation happens — update `engineering/incidents.md` or `support/escalation.md`.
+- A pricing exception or Mara-check sets a precedent — update `company/pricing.md`.
 
-Cadence: Hana checks open decisions and pending PRs weekly (Monday, alongside her Stripe check). Folder owners re-confirm or delete their pages quarterly — anything with `last_reviewed` older than 90 days gets flagged, and deleting beats keeping something stale.
+Every change goes through a pull request, approved by the folder owner.
 
 **First pages to fill:**
 
