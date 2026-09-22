@@ -14,6 +14,8 @@ These are hard rules. They apply to every page in this repo, and to every AI age
 4. **No compensation or individual HR information.**
 5. **Every fact has a source.** Each page lists its owner and its source: a person or a link to a public Slack thread. Nothing sourced from a DM goes in.
 
+**Process-page exception.** README.md, RULES.md and decisions.md describe the brain's own rules and mechanics, not facts about the company. They may cite this design document as their source.
+
 **Seed-source exception.** Pages created in the initial build (2026-09-22) may cite "Company context pack" as their source. This exception expires on 2026-12-21. By then, each page owner replaces it with a person or a public Slack thread link, or the page is flagged as stale under the 90-day rule. No new pages may use this source.
 
 6. **Don't resolve conflicts.** If two sources disagree, write both, add an entry to `decisions.md` naming the decider, and link to it from the page.

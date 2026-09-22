@@ -91,3 +91,4 @@ Gaps with no owner named in the design or the pack. Each is routed to the brain 
 
 - **Page ownership follows folder ownership; named knowledge holders are listed as contributor.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed).
 - **Seed-source exception added to RULES.md.** Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed). Expires 2026-12-21.
+- **Process-page exception added to RULES.md rule 5.** README.md, RULES.md and decisions.md — pages that document the brain's own rules and mechanics rather than facts about the company — may permanently cite this design document as their source. Decided by Maksym (brain build), pending approval by the brain owner (Hana, proposed). Does not expire.
